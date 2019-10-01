@@ -1,0 +1,9 @@
+{
+"ip_database":"localhost",
+"port_database":"5432",
+"user_database":"postgres",
+"password_database":"halopostgres",
+"name_database":"bku_master",
+"config_name":"inquiry_v1",
+"log_path":"logs"
+}
